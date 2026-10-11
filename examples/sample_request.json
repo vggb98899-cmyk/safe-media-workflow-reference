@@ -1,0 +1,8 @@
+{
+  "request_id": "demo-reference-001",
+  "target": "mock-media-edit",
+  "schema_version": 1,
+  "item_keys": ["sample-item-01"],
+  "payload": {"change": "replace-authorized-layer"},
+  "max_items": 10
+}
